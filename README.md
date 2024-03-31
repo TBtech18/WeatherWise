@@ -33,8 +33,7 @@ WeatherWise is a simple web application that allows users to check the current w
 
 ## Screenshots
 
-(![Uploading Screenshot 2024-03-31 194536.png…]()
-)
+![Screenshot 2024-03-31 194536](https://github.com/TBtech18/WeatherWise/assets/157731418/85b41bc1-6816-4c48-bd72-4a46fba60393)
 
 ## Installation
 
