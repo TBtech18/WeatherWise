@@ -67,7 +67,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 break;
             case "Mist":
             case "Haze":
-            case "Smoke": // Corrected capitalization here
+            case "Smoke":
                 weatherIcon.src = 'mist.png';
                 break;
             default:
