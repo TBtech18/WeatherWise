@@ -1,10 +1,6 @@
 # WeatherWise
- This is the weather app.
- Certainly! Below is a sample README file for your weather application:
 
 ---
-
-# WeatherWise
 
 WeatherWise is a simple web application that allows users to check the current weather conditions of any location worldwide.
 
@@ -58,5 +54,3 @@ Contributions are welcome! Please feel free to fork the repository and submit pu
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-You can customize this README file by adding more details or adjusting it to better suit your application.
